@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64542232859",
+    "project_id": "covid-info-ab850",
+    "storage_bucket": "covid-info-ab850.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64542232859:android:612946eb37a766eeb483be",
+        "android_client_info": {
+          "package_name": "br.com.digistarts.desafio.covidinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64542232859-1hom11n6k8150v1psu6eei2l9bofumia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdTDDbAukzNeot3I95XcOnxC17bAbOJGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64542232859-1hom11n6k8150v1psu6eei2l9bofumia.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
